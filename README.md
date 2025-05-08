@@ -107,4 +107,7 @@ This project can be easily deployed to platforms like Vercel, Netlify, or GitHub
 -   [ ] Use of animations (e.g., Framer Motion) (Minimal CSS transitions used, no Framer Motion)
 -   [ ] LLM-Powered Chat Feature (Not implemented as per initial scope focused on core UI, but infrastructure for Genkit is present in the template).
 
+## Google API key
+-  Enter your API key in the .env file
+
 This README provides an overview of the SoftSell Marketplace website.
