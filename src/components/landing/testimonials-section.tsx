@@ -4,7 +4,7 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Sarah L.",
+    name: "Aditya Adhana.",
     role: "IT Manager",
     company: "TechSolutions Inc.",
     review: "SoftSell made selling our old licenses incredibly easy. The valuation was fair, and we got paid much faster than expected!",
@@ -13,7 +13,7 @@ const testimonials = [
     aiHint: "woman portrait"
   },
   {
-    name: "John B.",
+    name: "Shradha Khapra.",
     role: "CFO",
     company: "Innovate Corp.",
     review: "I was hesitant about reselling software, but SoftSell's team was professional and guided us through every step. Highly recommend!",
