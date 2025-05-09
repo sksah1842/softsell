@@ -73,7 +73,7 @@ This is a responsive, single-page marketing website for SoftSell, a fictional so
 1.  Clone the repository:
     ```bash
     git clone <repository-url>
-    cd softsell-marketplace
+    cd softsell
     ```
 2.  Install dependencies:
     ```bash
