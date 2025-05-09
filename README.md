@@ -1,4 +1,4 @@
-# SoftSell Marketplace
+# SoftSell
 
 This is a responsive, single-page marketing website for SoftSell, a fictional software resale startup. The project was built using Next.js and Tailwind CSS, with components from ShadCN UI.
 
@@ -89,25 +89,8 @@ This is a responsive, single-page marketing website for SoftSell, a fictional so
     ```
     Open [http://localhost:3000](http://localhost:3000) (or the port specified in your Next.js config, likely `9002` for this project) with your browser to see the result.
 
-## Hosting
-
-This project can be easily deployed to platforms like Vercel, Netlify, or GitHub Pages.
-
-*   **Vercel**: Connect your GitHub repository to Vercel for automatic deployments.
-*   **Netlify**: Similar to Vercel, connect your repository for CI/CD.
-*   **GitHub Pages**: Configure GitHub Actions to build and deploy your Next.js static export.
-
-[User to add specific deployment link here once hosted]
-
-## Bonus Points Consideration
-
--   [x] Logo placeholder or favicon (Simple SVG logo implemented)
--   [x] SEO meta tags and page title (Implemented in `layout.tsx`)
--   [ ] Light/dark mode toggle (Theme structure in `globals.css` supports it, but toggle UI not implemented)
--   [ ] Use of animations (e.g., Framer Motion) (Minimal CSS transitions used, no Framer Motion)
--   [ ] LLM-Powered Chat Feature (Not implemented as per initial scope focused on core UI, but infrastructure for Genkit is present in the template).
 
 ## Google API key
 -  Enter your API key in the .env file
 
-This README provides an overview of the SoftSell Marketplace website.
+This README provides an overview of the SoftSell website.
